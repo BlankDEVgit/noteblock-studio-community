@@ -16,9 +16,9 @@
 
   <br>
 
-  [**🎵 Launch Online Studio**](https://your-domain-or-subdomain.pages.dev) &nbsp;&bull;&nbsp;
-  [**📖 Read Documentation**](https://your-domain-or-subdomain.pages.dev/docs.html) &nbsp;&bull;&nbsp;
-  [**🐛 Report an Issue**](https://github.com/YOUR_GITHUB_USERNAME/noteblock-studio-community/issues/new/choose)
+  [**🎵 Launch Online Studio**](https://noteblock-studio.pages.dev) &nbsp;&bull;&nbsp;
+  [**📖 Read Documentation**](https://noteblock-studio.pages.dev/docs.html) &nbsp;&bull;&nbsp;
+  [**🐛 Report an Issue**](https://github.com/BlankDEVgit/noteblock-studio-community/issues/new/choose)
 
   <br>
 
