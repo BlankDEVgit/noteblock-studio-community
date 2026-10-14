@@ -46,6 +46,7 @@ All audio scheduling, binary parsing, and export generation happen directly on y
 - **Redstone Repeater Schematics**: Generates `.mcfunction` builder scripts placing note blocks on exact substrate blocks (dirt, stone, gold, packed ice, etc.) with timed redstone repeaters.
 - **Studio WAV Audio Export**: Renders studio-quality 44.1kHz 16-bit Stereo WAV files directly in the browser faster than real-time.
 - **OpenNBS & MIDI Support**: Full binary round-trip compatibility with `.nbs` format versions (v0 classic to v5 modern) and Standard MIDI (`.mid`) files.
+- **Audio & YouTube Transcription**: Transcribe MP3, WAV, OGG, or YouTube video links directly into multi-track note blocks using client-side autocorrelation pitch tracking and onset detection.
 
 ---
 
